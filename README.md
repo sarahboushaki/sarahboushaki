@@ -35,6 +35,8 @@
   <img alt="Figma" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
   <img alt="Mongoose" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"/>
   <img alt="Sequelize" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"/>
+   <img src=" width="33px https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+          
 </p>
 
 ---
