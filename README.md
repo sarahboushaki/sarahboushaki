@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sarah Boushaki</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Front-end+Developer;React+%7C+Tailwind+CSS+%7C+JavaScript+lover;Always+learning+something+new!" alt="Typing SVG" />
 
 ---
 
