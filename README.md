@@ -5,7 +5,7 @@
 ### 💡 About Me
 
 - 🎓 Final-year student building a **Collaborative Project Management App**
-- 👩‍💻Full/mern stack Developer passionate about **clean UI**, smooth UX, and reusable components 
+- 👩‍💻 Full-stack Developer passionate about **clean UI**, smooth UX, and reusable components 
 - 🚀 Learning and using: React, Vite, Tailwind, Node.js, MySQL
 - 📚 Exploring: JWT auth, Sequelize ORM, API integration
 - 🌍 Languages: Arabic | English | French |  German 
