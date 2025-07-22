@@ -49,8 +49,7 @@
 ---
 
 ### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/your-link)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
