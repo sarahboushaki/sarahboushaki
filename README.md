@@ -35,6 +35,8 @@
 <img align="left" alt="Figma" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
 <img align="left" alt="Figma" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
 ---
+<br>
+<br>
 
 ### 📈 GitHub Stats
 
